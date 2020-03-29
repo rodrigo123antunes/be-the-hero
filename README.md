@@ -11,7 +11,7 @@ Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS. Desenvo
 
 💻Eslint e Prettier para padronizar o código 
 
-💻Animações nos nos botões e nos inputs
+💻Animações nos botões e nos inputs
 
 💻Alterei a animação da navegação do mobile para deixá-la igual a de IOS
 
